@@ -15,7 +15,3 @@ def mul(a, b) :
 def div(a, b) :
     print("a / b : ", a / b)
     return a / b
-
-import calc
-
-print(dir(calc))
