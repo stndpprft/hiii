@@ -163,11 +163,11 @@ print(div(3412, 2))
 # 사용자 정의 함수
 
 
-def function(parameter) :
-    """ 
+""" def function(parameter) :
+
       code
-    """
-    return result
+
+    return result """
 
 """ 
 def add_numbers(x, y) :
