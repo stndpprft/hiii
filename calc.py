@@ -1,6 +1,6 @@
 #모듈
 
-def add(a, b) :
+""" def add(a, b) :
     print("a + b : ", a + b)
     return a + b
 
@@ -15,3 +15,7 @@ def mul(a, b) :
 def div(a, b) :
     print("a / b : ", a / b)
     return a / b
+ """
+ 
+
+     

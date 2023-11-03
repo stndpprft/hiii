@@ -279,7 +279,7 @@ user2 = Teacher("bob", 25, "01033334444")
 print(getPersonName(user1))
 print(getPersonName(user2)) """
 
-class Person : 
+""" class Person : 
 	def __init__(self, name, age, num) :
 		self.name = name
 		self.age = age
@@ -305,4 +305,4 @@ p1.setNumber("11111111111")
 p1.setNumber("22222222222")
 
 print(p1.detNumber())
-print(p2.getNumber())
+print(p2.getNumber()) """
